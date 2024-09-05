@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 650;  
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, #333333 0%, #1a1d23 100%);
+background-size: 100% 300px;
+background-position: 0% 100%;
+color: #fff;
+border-radius:1.5rem ;
+}
+
+
+.clock{
+    font-size: 2rem;
+    border: 1px solid #232323;
+    background-color: #333333;
+    border-radius: 0.3rem;
+    padding: 3px;
+}
+
+
